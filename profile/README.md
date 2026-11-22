@@ -1,4 +1,4 @@
-
+![Ghonim Studio](../banner.png)
 <div align="center">
 
 # GHONIM STUDIO
